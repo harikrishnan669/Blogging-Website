@@ -21,13 +21,7 @@ A simple and responsive Blog Website built using **HTML**, **CSS**, and **JavaSc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blog-website.git
-   cd blog-website
-
-
-https://github.com/user-attachments/assets/2a62db3c-3028-41d5-80c1-370c8ed0a394
-
-
+   git clone https://github.com/harikrishnan669/Blogging-Website.git
 
 https://github.com/user-attachments/assets/50a7ff1f-2e2c-495b-bea8-b1fc05625389
 
