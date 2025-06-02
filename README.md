@@ -1,11 +1,10 @@
 # Blog Website
 
-A simple and responsive Blog Website built using **HTML**, **CSS**, and **JavaScript** for the frontend, with **Express.js** and **MongoDB** powering the backend.
+A simple and responsive Blog Website built using **React** for the frontend, with **Express.js** and **MongoDB** powering the backend.
 
 ## Features
 
-- Create, readand delete blog posts
-- Responsive design for desktop and mobile devices
+- Creat blog posts
 - Uses MongoDB for data storage
 - Express.js server handles RESTful API routes
 - Clean and user-friendly interface
